@@ -1,5 +1,5 @@
-# AMHAZE STADIUM 2X IP
-_Last Updated: 2026-04-01_
+# AMHAZE STADIUM 2X IP  
+_Last Updated: April 1, 2026_
 
 Firmware downloads and release notes for the Chauvet Professional Amhaze Stadium 2X IP.
 
@@ -7,9 +7,11 @@ Firmware downloads and release notes for the Chauvet Professional Amhaze Stadium
 
 ## How to Update
 
-The Amhaze Stadium 2X IP supports direct firmware updates via the USB type-C port. 
+The Amhaze Stadium 2X IP supports direct firmware updates using a USB storage device via the USB Type-C port.
 
-Detailed update instructions are available in the [User Manual](https://chauvetprofessional.com/product/amhaze-stadium-2x-ip/#downloads).
+For detailed instructions, refer to the [User Manual](https://chauvetprofessional.com/product/amhaze-stadium-2x-ip/#downloads).
+
+---
 
 ## Latest Release
 
@@ -19,7 +21,7 @@ Detailed update instructions are available in the [User Manual](https://chauvetp
 **Updates:**
 - Added fluid sensor status to the home screen  
 - Improved fluid sensor reliability  
-- Mitigates unintended shutdowns caused by false low-fluid sensor errors  
+- Reduces unintended shutdowns caused by false low-fluid sensor readings  
 
 ---
 
