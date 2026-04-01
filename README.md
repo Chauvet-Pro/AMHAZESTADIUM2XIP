@@ -1,6 +1,11 @@
 # AMHAZE STADIUM 2X IP  
 _Last Updated: April 1, 2026_
 
+A rugged and compact IP-rated hazer built into a self-contained flight case, offering precise DMX and manual control over its variable haze output and blower speed.
+Designed for the demands of touring, stadiums, festivals, and large-scale productions where a reliable, high-output, and weather-resistant atmospheric effect is essential.
+
+---
+
 Firmware downloads and release notes for the Chauvet Professional Amhaze Stadium 2X IP.
 
 ---
