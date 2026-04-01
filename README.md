@@ -16,7 +16,7 @@ For detailed instructions, refer to the [User Manual](https://chauvetprofessiona
 ## Latest Release
 
 ### V1.1
-[Download Firmware V1.1](https://github.com/Chauvet-Pro/AMHAZESTADIUM2XIP/raw/e8efa8de1c9bda0d9e14835fcdd038fcd3153c47/Firmware/V1.1.zip)
+[Download Firmware V1.1](https://github.com/Chauvet-Pro/AMHAZESTADIUM2XIP/raw/refs/heads/main/Firmware/AMHAZESTADIUM2XIP_Firmware_V1.1.zip)
 
 **Updates:**
 - Added fluid sensor status to the home screen  
