@@ -5,6 +5,12 @@ Firmware downloads and release notes for the Chauvet Professional Amhaze Stadium
 
 ---
 
+## How to Update
+
+The Amhaze Stadium 2X IP supports direct firmware updates via the USB type-C port. 
+
+Detailed update instructions are available in the [User Manual](https://chauvetprofessional.com/product/amhaze-stadium-2x-ip/#downloads).
+
 ## Latest Release
 
 ### V1.1
